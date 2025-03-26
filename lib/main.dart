@@ -73,3 +73,5 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
+
+//(base) justin@Justins-MacBook-Air sample_project % => open -a Simulator => flutter run
